@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "slug": "post-slug",
+        "content": "Here HTML Content"
+    },
+    {
+        "id": 2,
+        "slug": "post-slug",
+        "content": "Here HTML Content"
+    }
+]
